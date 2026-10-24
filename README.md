@@ -36,7 +36,6 @@ Customer Churn Prediction is a Machine Learning project that predicts whether a 
 To predict customer churn using machine learning and support data-driven customer retention decisions.
 
 ## Author
-## Author
 Gayathri Gollapalli
 B.Tech in Artificial Intelligence and Machine Learning
 Aspiring Data Scientist
